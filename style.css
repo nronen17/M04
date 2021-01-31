@@ -56,6 +56,8 @@ li {
 #title {
   font-family: "gizagizaRegular";
   text-align: center;
+  font-weight: normal;
+  font-style: normal;
 }
 ul {
   text-align: center;
